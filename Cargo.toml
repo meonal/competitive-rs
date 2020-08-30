@@ -1,8 +1,8 @@
 [package]
-name = "competitive"
-version = "0.1.0"
 authors = ["Hideyuki Tanaka <tanaka.hideyuki@gmail.com>"]
 edition = "2018"
+name = "competitive"
+version = "0.1.0"
 
 [profile.release]
 lto = true
@@ -18,3 +18,4 @@ num = "0.3"
 proconio = "0.4"
 typenum = "1.12"
 typenum-promote = "0.1"
+whiteread = "*"
