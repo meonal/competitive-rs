@@ -30,6 +30,7 @@ pub use crate::gf::GF;
 pub use crate::inf::{MaybeInf, MaybeInf::*};
 pub use crate::ix::{Board, Ix2};
 pub use crate::monoid::{Max, Min, Monoid, Product, Sum};
+pub use crate::number::*;
 pub use crate::prime::*;
 pub use crate::segment_tree::SegmentTree;
 pub use crate::union_find::UnionFind;
